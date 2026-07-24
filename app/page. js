@@ -1,0 +1,15 @@
+export default function Home() {
+  return (
+    <main>
+      <h1>🌌 Pod Universe</h1>
+      <h2>Create. Design. Sell. Grow.</h2>
+
+      <p>
+        The all-in-one creator platform for designing products,
+        building brands, and selling online.
+      </p>
+
+      <button>Start Creating</button>
+    </main>
+  );
+}
